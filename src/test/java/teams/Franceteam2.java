@@ -1,6 +1,6 @@
 package teams;
 
-public class Franceteam {
+public class Franceteam2 {
 
 	public static void main(String[] args) 
 	{
